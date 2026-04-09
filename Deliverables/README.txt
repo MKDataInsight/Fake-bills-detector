@@ -1,4 +1,5 @@
-notebook.ipynb : Préparation/Transformation des données, Entraînement des modèles et comparaison de leur efficacité
+notebook.ipynb : 
+    Préparation/Transformation des données, Entraînement des modèles et comparaison de leur efficacité
 
 
 best_logistic_regression_model.joblib : Modèle optimal issu de mes recherches (cf notebook)
