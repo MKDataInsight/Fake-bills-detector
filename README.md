@@ -1,4 +1,10 @@
-Projet 12 - Détectez des faux billets avec Python
+# Projet 12 - Détectez des faux billets avec Python
+
+Scénario :
+
+    Votre entreprise vient de décrocher un contrat avec l’Organisation nationale de lutte contre le faux-monnayage (ONCFM).
+    Elle souhaite vous envoyer en tant que senior data analyst pour cette mission.
+    En tant que data analyst, il faudra livrer une application permettant d'identifier des faux billets.
 
 Objectifs :
 
