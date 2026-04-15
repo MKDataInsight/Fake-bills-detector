@@ -22,7 +22,7 @@ je dois livrer une application permettant d'identifier des faux billets.
 
 
 ## Technologies utilisées
-- **Python** : Pandas pour manipuler les tables, matplotlib et seaborn pour les visualisations, scikit pour la classification
+- **Python** : Pandas pour manipuler les tables, Matplotlib et seaborn pour les visualisations, Scikit pour la classification
 
 ## Structure du projet
 Le projet est organisé comme suit :
