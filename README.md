@@ -19,6 +19,7 @@ je dois livrer une application permettant d'identifier des faux billets.
 - **Objectif 3** : Présenter clairement vos résultats et votre modèle
 
 **Compétences développées** : 
+
 -Explorer et visualiser les données
 
 -Préparer et nettoyer le jeu de données
