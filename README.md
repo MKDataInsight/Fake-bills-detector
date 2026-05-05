@@ -8,7 +8,7 @@
 - [Sources de données](#sources-de-données)
 - [Section auteur](#section-auteur)
 
-## Scénario :
+## Scénario
 
 En tant que consultant senior data analyst en mission à l’Organisation nationale de lutte contre le faux-monnayage (ONCFM),
 je dois livrer une application permettant d'identifier des faux billets.
