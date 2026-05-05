@@ -18,9 +18,11 @@ je dois livrer une application permettant d'identifier des faux billets.
 - **Objectif 2** : Entraîner un modèle d'apprentissage non supervisé pour exploiter le modèle
 - **Objectif 3** : Présenter clairement vos résultats et votre modèle
 
-
-**Compétences développées** : Explorer et visualiser les données, Préparer et nettoyer le jeu de données, Construire et comparer plusieurs modèles de classification, Identifier les critères qui permettent de repérer un faux billet
-
+**Compétences développées** : 
+-Explorer et visualiser les données
+-Préparer et nettoyer le jeu de données
+-Construire et comparer plusieurs modèles de classification
+-Identifier les critères qui permettent de repérer un faux billet
 
 ## Technologies utilisées
 - **Python** : Pandas pour manipuler les tables, Matplotlib et seaborn pour les visualisations, Scikit pour la classification
