@@ -20,8 +20,11 @@ je dois livrer une application permettant d'identifier des faux billets.
 
 **Compétences développées** : 
 -Explorer et visualiser les données
+
 -Préparer et nettoyer le jeu de données
+
 -Construire et comparer plusieurs modèles de classification
+
 -Identifier les critères qui permettent de repérer un faux billet
 
 ## Technologies utilisées
