@@ -16,7 +16,7 @@ je dois livrer une application permettant d'identifier des faux billets.
 ## Objectifs et compétences
 - **Objectif 1** : Utiliser un modèle d'apprentissage supervisé pour réaliser une prédiction d'un phénomène
 - **Objectif 2** : Entraîner un modèle d'apprentissage non supervisé pour exploiter le modèle
-- **Objectif 3 ** : Présenter clairement vos résultats et votre modèle
+- **Objectif 3** : Présenter clairement vos résultats et votre modèle
 
 
 **Compétences développées** : Explorer et visualiser les données, Préparer et nettoyer le jeu de données, Construire et comparer plusieurs modèles de classification, Identifier les critères qui permettent de repérer un faux billet
@@ -36,11 +36,4 @@ Les données proviennent de l'ONCFM.
 
 ## Section auteur
 **Auteur** : MKDataInsight 
-**Date** : 2026-04-15
-
-
-
-  
-    
-
- 
+**Date** : 2026-04-15 
